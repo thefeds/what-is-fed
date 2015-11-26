@@ -1,0 +1,14 @@
+
+# Files and directories to exclude from compilation
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+
+# Markdown parser
+markdown: kramdown
+
+# Timezone setting
+timezone: Europe/London
